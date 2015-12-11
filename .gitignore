@@ -1,6 +1,7 @@
 .sass-cache
 node_modules
 dist/
+mui_snippest.rb
 
 sass/.csscomb.json
 sass/.csslintrc
