@@ -1,0 +1,113 @@
+{
+  "msg": "成功",
+  "code": 0,
+  "data": {
+    "rows": [
+      {
+        "subj_color": "#f5c12b",
+        "name": "总经理 研发项目 房租 发票",
+        "subj_icon": 5,
+        "is_invoice": 1,
+        "subj_name": "房租2",
+        "state": 0,
+        "number": "151112-14",
+        "amount": "1,135.40",
+        "proj_name": "研发项目",
+        "id": 77804,
+        "realname": "美眉11"
+      },
+      {
+        "subj_color": "#5ac55e",
+        "name": "总经理 研发项目 差旅费 非发票",
+        "subj_icon": 3,
+        "is_invoice": 0,
+        "subj_name": "差旅费",
+        "state": 0,
+        "number": "151112-15",
+        "amount": "46,334.00",
+        "proj_name": "研发项目",
+        "id": 77805,
+        "realname": "美眉11"
+      },
+      {
+        "subj_color": "#5ac55e",
+        "name": "总经理 研发项目 差旅费 发票",
+        "subj_icon": 3,
+        "is_invoice": 1,
+        "subj_name": "差旅费",
+        "state": 0,
+        "number": "151112-16",
+        "amount": "9,961.00",
+        "proj_name": "研发项目",
+        "id": 77806,
+        "realname": "美眉11"
+      },
+      {
+        "subj_color": "#a94296",
+        "name": "总经理 研发项目 通讯费 发票",
+        "subj_icon": 7,
+        "is_invoice": 1,
+        "subj_name": "通讯费",
+        "state": 0,
+        "number": "151112-17",
+        "amount": "343.00",
+        "proj_name": "研发项目",
+        "id": 77807,
+        "realname": "美眉11"
+      },
+      {
+        "subj_color": "#a94296",
+        "name": "总经理 技术部日常费用 通讯费 发票",
+        "subj_icon": 7,
+        "is_invoice": 1,
+        "subj_name": "通讯费",
+        "state": 0,
+        "number": "151112-18",
+        "amount": "563.00",
+        "proj_name": "技术部日常费用",
+        "id": 77808,
+        "realname": "美眉11"
+      },
+      {
+        "subj_color": "#91afdf",
+        "name": "总经理 研发项目 销售费 发票",
+        "subj_icon": 9,
+        "is_invoice": 1,
+        "subj_name": "销售费",
+        "state": 0,
+        "number": "151112-19",
+        "amount": "666.00",
+        "proj_name": "研发项目",
+        "id": 77809,
+        "realname": "美眉11"
+      },
+      {
+        "subj_color": "#DD6A25",
+        "name": "总经理 研发项目 321123 非发票",
+        "subj_icon": 7,
+        "is_invoice": 0,
+        "subj_name": "321123",
+        "state": 0,
+        "number": "151112-110",
+        "amount": "1.00",
+        "proj_name": "研发项目",
+        "id": 77810,
+        "realname": "美眉11"
+      },
+      {
+        "subj_color": "#41a5f9",
+        "name": "美眉11 技术部日常费用 水电费 发票",
+        "subj_icon": 8,
+        "is_invoice": 1,
+        "subj_name": "水电费",
+        "state": 0,
+        "number": "151201-15",
+        "amount": "0.01",
+        "proj_name": "技术部日常费用",
+        "id": 77882,
+        "realname": "美眉11"
+      }
+    ],
+    "total": 8
+  }
+}
